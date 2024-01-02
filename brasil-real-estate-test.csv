@@ -1,10 +1,9 @@
 property_type,state,region,lat,lon,area_m2
-apartment,Pernambuco,Northeast,-8.1376709,-34.913349,94
-apartment,Piau?,Northeast,-5.044685,-42.766233,77
-apartment,Rio Grande do Norte,Northeast,-5.975667,-35.131004,138
-apartment,Rio Grande do Sul,South,-30.012566,-51.136326,62
-apartment,Rio de Janeiro,Southeast,-22.930645,-43.240059,67
-apartment,Santa Catarina,South,-27.681204,-48.493721,54
-apartment,Sergipe,Northeast,-10.878132,-37.089664,70
-apartment,Sao Paulo,Southeast,-23.592623,-46.67522,61
-apartment,Rondônia,North,-8.735108078,-63.86573756,72
+apartment,Pernambuco,Northeast,-8.1255503,-34.907601,75
+apartment,Piau?,Northeast,-5.076423,-42.76101,74
+apartment,Rio Grande do Norte,Northeast,-5.887895,-35.203171,77
+apartment,Rio Grande do Sul,South,-30.041273,-51.204395,74
+apartment,Rio de Janeiro,Southeast,-22.876587,-42.010117,79
+apartment,Santa Catarina,South,-27.039663,-48.654438,76
+apartment,Sergipe,Northeast,-10.932202,-37.07357,74
+apartment,Sao Paulo,Southeast,-23.9719227,-46.3718655,75
