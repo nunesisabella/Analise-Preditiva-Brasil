@@ -1,7 +1,6 @@
 property_type,state,region,lat,lon,area_m2,price_brl
 apartment,Pernambuco,Northeast,-8.134204,-34.906326,72,414222.98
 apartment,Pernambuco,Northeast,-8.1266642,-34.903924,136,848408.53
-apartment,Pernambuco,Northeast,-8.1255503,-34.907601,75,299438.28
 apartment,Pernambuco,Northeast,-8.1202489,-34.89592,187,848408.53
 apartment,Pernambuco,Northeast,-8.142666,-34.906906,80,464129.36
 apartment,Pernambuco,Northeast,-8.1415992,-34.909179,80,314410.19
@@ -382,9 +381,7 @@ house,Piau?,Northeast,-5.051253,-42.749144,236,748595.73
 apartment,Piau?,Northeast,-5.06999,-42.749367,70,242774.57
 apartment,Piau?,Northeast,-5.078903,-42.787226,162,988146.4
 house,Piau?,Northeast,-5.074453,-42.736429,115,534986.44
-apartment,Piau?,Northeast,-5.086306,-42.781749,,606861.61
 apartment,Piau?,Northeast,-5.070009,-42.74717,79,339353.41
-apartment,Piau?,Northeast,-5.076423,-42.76101,74,308421.45
 apartment,Piau?,Northeast,-5.095419,-42.791474,78,318392.73
 house,Piau?,Northeast,-5.085659,-42.729751,115,398252.92
 apartment,Piau?,Northeast,-5.061773,-42.759066,76,276629.09
@@ -417,7 +414,6 @@ apartment,Rio Grande do Norte,Northeast,-5.862752,-35.199493,67,319400.84
 house,Rio Grande do Norte,Northeast,-5.126,-35.640933,180,578914.03
 apartment,Rio Grande do Norte,Northeast,-6.002884,-35.110754,,489082.54
 apartment,Rio Grande do Norte,Northeast,-5.887895,-35.203171,83,309419.57
-apartment,Rio Grande do Norte,Northeast,-5.887895,-35.203171,77,289457.01
 apartment,Rio Grande do Norte,Northeast,-5.887895,-35.203171,77,259513.19
 apartment,Rio Grande do Norte,Northeast,-5.887895,-35.203171,,259513.19
 apartment,Rio Grande do Norte,Northeast,-5.887895,-35.203171,68,269494.46
@@ -806,7 +802,6 @@ apartment,Rio Grande do Sul,South,-30.039682,-51.219501,96,648782.97
 apartment,Rio Grande do Sul,South,-29.682001,-53.808643,69,284466.37
 apartment,Rio Grande do Sul,South,-30.029264,-51.191223,,656236.96
 apartment,Rio Grande do Sul,South,-30.016375,-51.200611,,365473.5
-apartment,Rio Grande do Sul,South,-30.041273,-51.204395,74,300859.38
 house,Rio Grande do Sul,South,-30.123629,-51.232658,248,837964.14
 apartment,Rio Grande do Sul,South,-29.7160555,-53.8038504,168,706716.72
 apartment,Rio Grande do Sul,South,-30.060946,-51.166382,66,418982.05
@@ -3744,7 +3739,6 @@ apartment,Rio de Janeiro,Southeast,-22.968903,-43.185005,170,1514393
 house,Rio de Janeiro,Southeast,-22.931274,-43.348412,130,478103.15
 apartment,Rio de Janeiro,Southeast,-22.914701,-43.244896,67,439176.16
 house,Rio de Janeiro,Southeast,-22.788343,-42.137508,,379288.51
-apartment,Rio de Janeiro,Southeast,-22.876587,-42.010117,79,748595.73
 apartment,Rio de Janeiro,Southeast,-22.926907,-43.212238,,592488.57
 apartment,Rio de Janeiro,Southeast,-22.9174041,-43.2061855,57,349344.66
 apartment,Rio de Janeiro,Southeast,-22.906288,-43.099586,70,698689.35
@@ -6735,10 +6729,6 @@ apartment,Rio de Janeiro,Southeast,-22.906298,-43.091431,71,349344.66
 apartment,Rio de Janeiro,Southeast,-23.013484,-43.4479815,180,1403337.51
 apartment,Rio de Janeiro,Southeast,-22.942118,-43.371338,60,359325.95
 apartment,Rio de Janeiro,Southeast,-22.906979,-43.284798,64,349344.66
-house,Rondônia,North,-8.751707,-63.8556602,250,393742.15
-apartment,Rondônia,North,-8.759273888,-63.90518435,142,454317.88
-apartment,Rondônia,North,-8.759815,-63.8612434,84,413934.08
-house,Rondônia,North,-8.7536001,-63.8980591,100,252398.8
 apartment,Santa Catarina,South,-26.985996,-48.636383,170,748595.73
 apartment,Santa Catarina,South,-26.985996,-48.636383,139,1377416.18
 apartment,Santa Catarina,South,-26.966631,-48.636383,190,1297565.98
@@ -6752,7 +6742,6 @@ apartment,Santa Catarina,South,-27.007624,-48.653748,65,269494.46
 house,Santa Catarina,South,-26.985996,-48.636383,146,383646.22
 apartment,Santa Catarina,South,-26.985996,-48.636383,133,1277603.42
 apartment,Santa Catarina,South,-27.106749,-48.628864,119,706716.72
-apartment,Santa Catarina,South,-27.039663,-48.654438,76,249531.9
 apartment,Santa Catarina,South,-27.444948,-48.484417,65,499063.83
 apartment,Santa Catarina,South,-26.985996,-48.636383,117,1297565.98
 apartment,Santa Catarina,South,-27.024239,-48.658772,59,239550.63
@@ -9768,7 +9757,7 @@ apartment,Sergipe,Northeast,-10.930067,-37.067871,71,319400.84
 apartment,Sergipe,Northeast,-10.971482,-37.042399,129,429194.89
 apartment,Sergipe,Northeast,-10.931086,-37.065456,88,369307.22
 apartment,Sergipe,Northeast,-10.966072,-37.054288,142,848408.53
-apartment,Sergipe,Northeast,-10.938775,-37.053115,,848408.53
+apartment,Sergipe,Northeast,-10.938775,-37.053115,79,348408.53
 apartment,Sergipe,Northeast,-10.942191,-37.067212,100,239550.63
 apartment,Sergipe,Northeast,-11.108484,-37.131858,,474110.62
 house,Sergipe,Northeast,-10.944072,-37.089664,109,319400.84
@@ -9776,7 +9765,7 @@ apartment,Sergipe,Northeast,-10.971885,-37.055862,80,339363.39
 apartment,Sergipe,Northeast,-10.99188,-37.0519,107,319400.84
 apartment,Sergipe,Northeast,-10.940249,-37.058333,106,459138.71
 apartment,Sergipe,Northeast,-10.988074,-37.053452,68,239550.63
-apartment,Sergipe,Northeast,-10.951932,-37.077494,,239550.63
+apartment,Sergipe,Northeast,-10.951932,-37.077494,74,239550.63
 apartment,Sergipe,Northeast,-10.922378,-37.071133,75,251528.14
 apartment,Sergipe,Northeast,-10.961938,-37.05583,69,399251.07
 apartment,Sergipe,Northeast,-10.960996,-37.045532,67,239550.63
@@ -9786,7 +9775,6 @@ apartment,Sergipe,Northeast,-10.930678,-37.049419,200,598876.59
 apartment,Sergipe,Northeast,-10.940879,-37.05624,98,647784.85
 apartment,Sergipe,Northeast,-10.99748784,-37.06038262,108,617872.34
 apartment,Sergipe,Northeast,-10.930432,-37.059037,150,748595.73
-apartment,Sergipe,Northeast,-10.932202,-37.07357,74,359325.95
 apartment,Sergipe,Northeast,-10.971528,-37.054267,128,629519.12
 apartment,Sergipe,Northeast,-10.954843,-37.05328,110,618839.15
 apartment,Sergipe,Northeast,-10.942266,-37.061949,85,394260.42
@@ -9838,7 +9826,6 @@ house,Sao Paulo,Southeast,-23.5328098,-46.5782522,,1167809.37
 apartment,Sao Paulo,Southeast,-23.669058,-46.686203,,349344.66
 apartment,Sao Paulo,Southeast,-23.5291926,-46.6541866,69,648782.97
 apartment,Sao Paulo,Southeast,-22.911699,-47.083542,55,249531.9
-apartment,Sao Paulo,Southeast,-23.9719227,-46.3718655,75,403838.12
 house,Sao Paulo,Southeast,-23.6244163,-46.6511805,166,858156.04
 apartment,Sao Paulo,Southeast,-23.5541094,-46.5895087,56,379288.51
 apartment,Sao Paulo,Southeast,-23.46735,-46.610348,56,269494.46
